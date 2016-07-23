@@ -202,5 +202,4 @@ def big_shoe_rebounds
     return rebound_num
     #binding.pry
   end
-
 end
